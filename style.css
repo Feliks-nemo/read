@@ -1,0 +1,240 @@
+:root {
+        scroll-behavior: smooth;
+    }
+
+#dedi {
+    position: absolute;
+    width: 100%;
+    height: 105%;
+    margin: -16px -8px;
+}
+
+#rata {
+    color: white;
+    position: absolute;
+    z-index: 2;
+    margin: 75% 5%;
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.5;
+}
+
+#hak {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    width: 180px;
+    height: 60px;
+    border-radius: 30px;
+    position: absolute;
+    z-index: 3;
+    margin: 130% 5%;
+    border: 2px solid white;
+    font-size: 14px;    
+}
+
+
+#sralnik {
+    background: #FFD017;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    width: 200px;
+    height: 60px;
+    border-radius: 30px;
+    position: absolute;
+    z-index: 3;
+    margin: 110% 5%;
+    font-size: 14px;
+}
+
+#sliva {
+  font-size: 27px;  
+  margin: 50% 5%;
+  color: white;
+  position: absolute;
+  z-index: 1;
+}
+
+#ass, #fe {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background: yellow;
+    margin: 750% 20px;
+    opacity: 0;
+}
+
+#fe {
+    margin: 201.3% 5%;
+    z-index: 10;
+}
+
+#f {
+    width: 150%;
+    height: 90%;
+    position: absolute;
+    background: black;
+    margin: 400% -5%;
+    opacity: 0.9;    
+}
+
+#a {
+    font-size: 10px;
+    margin: 235% 5%;
+    position: absolute;
+    z-index: 1;
+}
+
+#b {
+    position: absolute;
+    z-index: 2;
+    margin: 250% 5%;
+    font-size: 17px;
+    line-height: 25px;
+    word-spacing: -5px;
+}
+
+#c {
+    position: absolute;
+    z-index: 2;
+    margin: 285% -2%;
+    font-size: 17px;
+    line-height: 25px;
+    word-spacing: -7px;
+}
+
+#d {
+    position: absolute;
+    z-index: 2;
+    margin: 355% 5%;
+    font-size: 12px;
+    line-height: 25px;
+    word-spacing: -5px;
+}
+
+#e {
+    position: absolute;
+    z-index: 2;
+    margin: 420% 5%;
+    font-size: 25px;
+    line-height: 25px;
+    color: white;
+}
+
+#j {
+    margin: 440% 5%;
+    position: absolute;
+    z-index: 1;
+    width: 85%;
+    height: auto;
+}
+
+#k {
+    margin: 510% 5%;
+    position: absolute;
+    z-index: 1;
+    width: 15%;
+    height: auto;
+}
+
+#z {
+    margin: 510% 30%;
+    position: absolute;
+    z-index: 3;
+    color: white;
+    opacity: 0.8;
+    font-size: 9px;
+    word-spacing: -3px;    
+}
+
+#y {
+    margin: 440% 5%;
+    position: absolute;
+    z-index: 1;
+    width: 15%;
+    height: auto;
+}
+
+#x {
+    margin: 540% 30%;
+    position: absolute;
+    z-index: 3;
+    color: white;
+    opacity: 0.8;
+    font-size: 9px;
+    word-spacing: 1px;
+    word-spacing: -3px;    
+}
+
+#one, #two, #three {
+    width: 15%;
+    height: auto;
+    position: absolute;
+    z-index: 5;
+    opacity: 0.9;
+}
+
+#one {
+    margin: 620% 3%;
+}
+
+#two {
+    margin: 660% 3%;
+}
+
+#three {
+    margin: 690% 3%;
+}
+
+#etap {
+    font-size: 25px;
+    position: absolute;
+    margin: 600% 5%;
+}
+
+#u, #zi, #hei {
+    position: absolute;
+    font-size: 16px;
+    z-index: 6;
+    margin: 623% 20%;
+    word-spacing: -5px;
+}
+
+#zi {
+    margin: 663% 20%;
+}
+
+#hei {
+    margin: 693% 20%;
+}
+
+#fragment, #hi, #is {
+    position: absolute;
+    z-index: 7;
+    margin: 640% 20%;
+    opacity: 0.8;
+    font-size: 9px;
+    word-spacing: -5px;
+}
+
+#is {
+    margin: 705% 20%;
+}
+
+#hi {
+    margin: 674% 20%;
+}
+
+#le {
+    margin: 730% 20%;
+    z-index: -1;
+    position: absolute;
+    width: 100px;
+    height: 10px;
+    opacity: 0;
+}
